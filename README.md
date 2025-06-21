@@ -6,7 +6,7 @@ Open an issue if a bug is discovered.
 
 ## Installation
 ````bash
-$ npm install github:Russell2259/codehs-db
+npm install github:mrsproutt/codehs-db
 ````
 
 ## Configuration
